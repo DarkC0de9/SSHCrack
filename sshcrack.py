@@ -1,5 +1,5 @@
 # Tool made by ChrisCode333. Feel free to modify and play with the code!
-# Ensure you check the READ.ME for more information! Happy hacking :3
+# Ensure you check the README for more information! Happy hacking :3
 try:
 	import paramiko, sys, socket, time, threading, time
 	import os.path
